@@ -120,7 +120,7 @@ list(model1, model2, model3, model4) |>
 **Question 3.6**: According to this analysis, what is the main driver of economic growth? Why?
 
 #ANSWER HERE# 
-The statistical analysis shows that education is the main driver of economic growth. This can be related to previous assignments where we analyzed the influence of education and gdp. We can conclude that education, due to a number of factors.
+The statistical analysis shows that education is the main driver of economic growth. This can be related to previous assignments where we analyzed the influence of education and gdp. We can conclude that education, due to a number of factors is the main driver of economic growth. 
 
 
 **Question 3.7**: In the code chunk below, edit the table such that the cells (including standard errors) corresponding to the variable `treat` have a red background and white text. Make sure to load the `kableExtra` library beforehand.
