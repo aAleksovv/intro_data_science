@@ -1,4 +1,3 @@
----
 title: | 
   | Assignment 4: Collaborating Together
   | Introduction to Applied Data Science
@@ -58,7 +57,7 @@ new_data |> datasummary( formula = growth +rgdp60~(mean+median+sd+min+max) )
 
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+**In this table is possible to see  the mean, median, standard deviation, minimum, and maximum of growth and rgdp60. There is also the differentiation of countries that had revolutions and those that didn't, through the variable 'treat'. Andrian used the function 'datasummary' to create the final tidy table with the result**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
 
 
